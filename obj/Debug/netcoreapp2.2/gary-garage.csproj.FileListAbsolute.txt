@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\obj\Debug\netcoreapp2.2\gary-garage.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\obj\Debug\netcoreapp2.2\gary-garage.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\obj\Debug\netcoreapp2.2\gary-garage.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\obj\Debug\netcoreapp2.2\gary-garage.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\bin\Debug\netcoreapp2.2\gary-garage.deps.json
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\bin\Debug\netcoreapp2.2\gary-garage.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\bin\Debug\netcoreapp2.2\gary-garage.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\bin\Debug\netcoreapp2.2\gary-garage.dll
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\bin\Debug\netcoreapp2.2\gary-garage.pdb
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\obj\Debug\netcoreapp2.2\gary-garage.dll
+C:\Users\naienko\workspace\csharp\exercises\gary-garage\obj\Debug\netcoreapp2.2\gary-garage.pdb
